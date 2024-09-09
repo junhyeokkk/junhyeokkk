@@ -1,8 +1,9 @@
 ## ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junhyeok&fontSize=90)
-
+<div align="center">
 ##                                                 📚 Tech Stack 📚
 
 ###                                          ✨ Platforms & Languages ✨
+</div>
 <!--
 **junhyeokkk/junhyeokkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
