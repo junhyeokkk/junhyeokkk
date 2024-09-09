@@ -29,6 +29,8 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
+	<img src="https://img.shields.io/badge/Apache Tomcat IDEA-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <div align="center">
 	
