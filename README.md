@@ -25,7 +25,13 @@
  
 ### 						🔨 Tools 🔨
 
-
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
+</div>
+<div align="center">
+	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeokkk)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
