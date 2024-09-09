@@ -3,7 +3,9 @@
 ## ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junhyeok&fontSize=90)
 
   
-###                                                 📚 Tech Stack 📚
+##                                                 📚 Tech Stack 📚
+###                                          ✨ Platforms & Languages ✨
+
 </div>
 
 <div align="center">
@@ -21,7 +23,7 @@
 </div>
 <div align="center">
 	
-###                                          ✨ Platforms & Languages ✨
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeokkk)](https://github.com/anuraghazra/github-readme-stats)
 
