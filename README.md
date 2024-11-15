@@ -46,11 +46,10 @@
 
 ---
 
-### 🎯 What I’m currently working on:
-- 🌱 **Improving my backend skills with Spring Boot**
-- 🚀 **Building scalable cloud applications using AWS**
-- 💻 **Learning about distributed systems and advanced database management**
-
+###  🎯 현재 작업 중인 내용:
+🌱 Spring Boot를 활용한 백엔드 기술 향상
+🚀 AWS를 사용하여 확장 가능한 클라우드 애플리케이션 구축
+💻 분산 시스템 및 고급 데이터베이스 관리 학습
 ---
 
 ### 📫 How to reach me:
@@ -60,10 +59,10 @@
 
 ---
 
-### 🥂 Fun Facts:
-- 🎨 I love creating visually stunning UIs!
-- 🚴‍♂️ When I’m not coding, you’ll find me cycling around the city.
-- 🎮 Avid gamer and tech enthusiast 🎮.
+### 🥂 재미있는 사실:
+🎨 시각적으로 멋진 UI를 만드는 것을 좋아합니다!
+🚴‍♂️ 코딩하지 않을 때는 도시를 자전거로 누비고 있습니다.
+🎮 게임과 기술을 사랑하는 열혈 게이머 🎮
 
 ---
 
