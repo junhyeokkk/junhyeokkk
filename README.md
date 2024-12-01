@@ -51,9 +51,10 @@
 #### 💻 Project Timeline
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
-| 24.05.20~24.06.21 | AntWork 그룹웨어 프로젝트        | [->](#) |
-| 24.04.15~24.05.17 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/junhyeokkk/LotteOn) |
-| 24.04.01~24.04.12 | farmstory 프로젝트                | [->](https://github.com/junhyeokkk/Farmstory_TEAM1) |
+| 24.11.16~진행중 | AntWork 그룹웨어 프로젝트 (Front)        | [->](https://github.com/greenlotte4/lotte-2nd-project-front-team3) |
+| 24.11.16~진행중 | AntWork 그룹웨어 프로젝트 (Back)        | [->](https://github.com/greenlotte4/lotte-2nd-project-back-team3) |
+| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/junhyeokkk/LotteOn) |
+| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/junhyeokkk/Farmstory_TEAM1) |
 
 ---
 
