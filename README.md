@@ -6,7 +6,7 @@
 
 ### 🚀 Welcome to my GitHub profile! 🚀  
 안녕하세요, 끊임없이 성장하는 개발자 **최준혁**입니다!  
-여러분과 함께 배우고 공유할 수 있는 공간을 만들어가고 싶습니다. 🌟
+배움을 즐기고, 실패를 두려워 하지않는 항상 성장하겠습니다. 🌟
 
 ---
 
@@ -53,8 +53,7 @@
 ---
 
 ### 📫 How to reach me:
-- **Email**: your_email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- **Email**: loveu9911111@gmail.com
 - **Portfolio**: [Your Portfolio Link](https://yourportfolio.com)
 
 ---
