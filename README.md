@@ -67,7 +67,6 @@
 
 ### 📫 How to reach me:
 - **Email**: loveu9911111@gmail.com
-- **Portfolio**: [Your Portfolio Link](https://yourportfolio.com)
 
 ---
 
