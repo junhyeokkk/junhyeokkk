@@ -35,7 +35,9 @@
 	
 ---
 </div>
+
 ### 🔨 Tools I Use
+
 <div>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
