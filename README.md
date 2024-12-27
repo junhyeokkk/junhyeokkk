@@ -11,27 +11,31 @@
 ---
 
 ### 📚 Tech Stack
-#### ⚡ Platforms & Languages ⚡
+#### ⚡ Platforms & Languages & Tools⚡
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=DBeaver&logoColor=white" />
-
----
-
-### 🔨 Tools I Use
-
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java">
+				<img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=java&logoColor=white" alt="JSP">
+				<img src="https://img.shields.io/badge/Thymeleaf-005F99?style=flat-square&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
+				<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+				<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
+				<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React">
+				<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white" alt="JSON">
+				<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle">
+				<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
+				<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black" alt="Tomcat">
+				<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white" alt="Eclipse">
+				<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring">
+				<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white" alt="Spring Security">
+				<img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=MyBatis&logoColor=white" alt="MyBatis">
+				<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" alt="Hibernate">
+				<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white" alt="Maven">
+				<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle">
+				<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
+				<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="JPA">
+        <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=black" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 
 ---
 
