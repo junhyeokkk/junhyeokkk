@@ -7,9 +7,15 @@
 ### 🚀 Welcome to my GitHub profile! 🚀  
 안녕하세요, 끊임없이 성장하는 개발자 **최준혁**입니다!  
 배움을 즐기고, 실패를 두려워 하지않습니다. 항상 성장하겠습니다. 🌟
+🚀 Welcome to my GitHub profile! 🚀
+안녕하세요, 끊임없이 성장하는 개발자 최준혁입니다!
+배움을 즐기고, 실패를 두려워하지 않습니다. 항상 성장하겠습니다. 🌟
+
+## 💡 Blog  
+더 많은 생각과 배움을 공유하고 싶다면 제 블로그를 방문해 주세요!  
+📖 [junhyeokkk의 기술 블로그](https://junhyeokkk.tistory.com/)  
 
 ---
-
 ### 📚 Tech Stack
 #### ⚡ Platforms & Languages ⚡
 <div align="center">
