@@ -12,7 +12,7 @@
 배움을 즐기고, 실패를 두려워하지 않습니다. 항상 성장하겠습니다. 🌟
 
 ## 💡 Blog  
-배움을 기록하고 있습니다
+배움을 기록하고 있습니다 <br>
 📖 [junhyeokkk의 기술 블로그](https://junhyeokkk.tistory.com/)  
 
 ---
