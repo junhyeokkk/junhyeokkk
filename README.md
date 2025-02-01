@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub Banner](https://github.com/kyechan99/capsule-render/blob/main/demo_header.png?raw=true)
+![Junhyeok's Profile](https://img.shields.io/badge/%F0%9F%8E%AF%20최준혁의%20GitHub-코드를%20통해%20세상을%20바꿉니다.-E44D26?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
