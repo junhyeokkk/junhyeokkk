@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=💻%20Junhyeok's%20Profile%20💻&fontSize=70&fontAlign=50)
+![header](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
 
 ---
 
