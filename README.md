@@ -1,6 +1,6 @@
 <div align="center">
 
-![Junhyeok's Profile](https://img.shields.io/badge/%F0%9F%8E%AF%20최준혁의%20GitHub-코드를%20통해%20세상을%20바꿉니다.-E44D26?style=for-the-badge&logo=github&logoColor=white)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:1F1C2C,100:928DAB&height=200&section=header&text=💻%20Junhyeok's%20Profile%20💻&fontSize=50&fontColor=FFFFFF)
 
 ---
 
