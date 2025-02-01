@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+![GitHub Banner](https://github.com/kyechan99/capsule-render/blob/main/demo_header.png?raw=true)
 
 ---
 
