@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub Banner](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junhyeokkk&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:1F1C2C,100:928DAB&height=200&section=header&text=💻%20Junhyeok's%20Profile%20💻&fontSize=50&fontColor=FFFFFF)
 
 ---
 
