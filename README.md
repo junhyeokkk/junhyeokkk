@@ -10,7 +10,7 @@
 
 ## 💡 Blog  
 배움을 기록하고 있습니다 <br>
-📖 [junhyeokkk의 기술 블로그](https://junhyeokkk.tistory.com/)  
+📖 [준혁이의 기술 블로그](https://junhyeokkk.tistory.com/)  
 
 ---
 ### 📚 Tech Stack
