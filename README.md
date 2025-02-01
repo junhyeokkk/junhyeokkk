@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=700&size=28&pause=1000&color=E44D26&background=FFFFFF00&width=600&height=60&lines=개발을+사랑하는+최준혁입니다.;새로운+기술을+탐험하며+성장합니다.;성장이+너무나+즐겁고+재미있습니다.)
+![header](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&size=28&pause=1000&color=E44D26&background=FFFFFF00&width=600&height=60&lines=개발을+사랑하는+최준혁입니다.;새로운+기술을+탐험하며+성장합니다.;성장이+너무나+즐겁고+재미있습니다.)
 
 
 ---
