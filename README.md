@@ -66,6 +66,8 @@
 #### 💻 Project Timeline
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
+| 25.01.24~진행중 | Pingo 소개팅 어플 프로젝트 Front (Flutter, SpringBoot)     | [->](https://github.com/NAIMJAE/pingo_front) |
+| 25.01.24~진행중 |  Pingo 소개팅 어플 프로젝트 Back (Flutter, SpringBoot)       | [->](https://github.com/NAIMJAE/pingo_back) |
 | 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/junhyeokkk/Antwork) |
 | 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/junhyeokkk/LotteOn) |
 | 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/junhyeokkk/Farmstory_TEAM1) |
