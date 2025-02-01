@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+![header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E44D26&background=FFFFFF00&width=600&height=60&lines=Hello%2C+I'm+Junhyeok!;Welcome+to+my+GitHub+Profile!)
 
 ---
 
