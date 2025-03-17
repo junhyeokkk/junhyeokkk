@@ -84,6 +84,7 @@
 
 ### 📫 How to reach me:
 - **Email**: loveu9911111@gmail.com
+- **Phone**: 010-3450-7418
 
 ---
 
