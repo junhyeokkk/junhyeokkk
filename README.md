@@ -68,6 +68,7 @@
 #### 💻 Project Timeline
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
+| 25.05.26~진행중 |  AI 소비 코치가 있는 개인 소비 분석 서비스    | [->](https://github.com/junhyeokkk/myfinance-ai) |
 | 25.01.24~25.03.06 |  Pingo 소개팅 어플 프로젝트      | [->](https://github.com/junhyeokkk/Pingo) |
 | 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/junhyeokkk/Antwork) |
 | 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/junhyeokkk/LotteOn) |
@@ -78,7 +79,7 @@
 ### 🎯 현재 작업 중인 내용:
 - 🌱 빅데이터분석기사, 정보처리기사 실기 자격증 공부중
 - 🚀 프로그래머스 알고리즘 고득점 KIT 학습중
-- 💻 Node.js 학습중
+- 💻 Node.js, Typescript의 친숙화를 위하여 개인 사이드 프로젝트 진행중 
 
 ---
 
