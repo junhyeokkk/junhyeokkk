@@ -1,97 +1,136 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:1F1C2C,100:928DAB&height=200&section=header&text=💻%20Junhyeok's%20Profile%20💻&fontSize=50&fontColor=FFFFFF)
+```
+╔══════════════════════════════════════════════════════╗
+║   $ whoami → Junhyeok Choi  |  Backend Developer    ║
+╚══════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 Welcome to my GitHub profile! 🚀  
-안녕하세요! 끊임없이 성장하는 개발자 **최준혁**입니다!  
-배움을 즐기고, 실패를 두려워 하지않습니다. 항상 성장하겠습니다. 🌟
-
-
-## 💡 Blog  
-나의 배움 기록 <br>
-📖 [준혁이의 기술 블로그](https://junhyeokkk.tistory.com/)  
-
----
-### 📚 Tech Stack
-#### ⚡ Platforms & Languages ⚡
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java">
-	<img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=java&logoColor=white" alt="JSP">
-	<img src="https://img.shields.io/badge/Thymeleaf-005F99?style=flat-square&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React">
-	<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white" alt="JSON">
-	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle">
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black" alt="Tomcat">
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring">
-	<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white" alt="Spring Security">
-	<img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=MyBatis&logoColor=white" alt="MyBatis">
-	<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" alt="Hibernate">
-	<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white" alt="Maven">
-	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle">
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="JPA">
-	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" alt="FLUTTER">
-	
----
 </div>
 
-### 🔨 Tools I Use
+## `$ cat about_me.txt`
 
-<div>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
-	<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=black" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
+```yaml
+name     : Choi Junhyeok (최준혁)
+role     : Backend Developer
+blog     : https://junhyeokkk.tistory.com/
+email    : loveu9911111@gmail.com
+phone    : 010-3450-7418
+motto    : "배움을 즐기고, 실패를 두려워하지 않는다."
+status   : 🟢 actively building
+```
 
 ---
 
-### 🌟 GitHub Stats
+## `$ ls -la ./tech-stack/`
 
 <div align="center">
-  
-![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyeokkk&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeokkk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+**[ Languages & Frameworks ]**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**[ Backend ]**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
+**[ Database ]**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**[ DevOps & Tools ]**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-### 📅 Projects Overview
+## `$ cat projects.log`
 
-#### 💻 Project Timeline
-| **작업 기한**        | **프로젝트 명**                     | **이동**  |
-|-----------------|-------------------------------|-------|
-| 25.05.26~진행중 |  AI 소비 코치가 있는 개인 소비 분석 서비스    | [->](https://github.com/junhyeokkk/myfinance-ai) |
-| 25.01.24~25.03.06 |  Pingo 소개팅 어플 프로젝트      | [->](https://github.com/junhyeokkk/Pingo) |
-| 24.11.16~24.12.26 | AntWork 그룹웨어 프로젝트     | [->](https://github.com/junhyeokkk/Antwork) |
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/junhyeokkk/LotteOn) |
-| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/junhyeokkk/Farmstory_TEAM1) |
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  ID   PERIOD                  PROJECT                          STATUS   │
+├─────────────────────────────────────────────────────────────────────────┤
+│  05   25.05.26 ~ current   AI 소비 코치 개인 소비 분석 서비스    🟢 WIP  │
+│  04   25.01.24 ~ 25.03.06  Pingo 소개팅 어플                    ✅ DONE │
+│  03   24.11.16 ~ 24.12.26  AntWork 그룹웨어                     ✅ DONE │
+│  02   24.10.18 ~ 24.11.15  LotteOn 쇼핑몰                       ✅ DONE │
+│  01   24.09.27 ~ 24.10.04  Farmstory                            ✅ DONE │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
----
-
-### 🎯 현재 작업 중인 내용:
-- 🌱 빅데이터분석기사, 정보처리기사 실기 자격증 공부중
-- 🚀 프로그래머스 알고리즘 고득점 KIT 학습중
-- 💻 Node.js, Typescript의 친숙화를 위하여 개인 사이드 프로젝트 진행중 
-
----
-
-### 📫 How to reach me:
-- **Email**: loveu9911111@gmail.com
-- **Phone**: 010-3450-7418
+| # | Project | Description | Link |
+|---|---------|-------------|------|
+| 05 | **myfinance-ai** | AI 소비 코치가 있는 개인 소비 분석 서비스 | [→ repo](https://github.com/junhyeokkk/myfinance-ai) |
+| 04 | **Pingo** | 소개팅 어플 (Flutter + Spring Boot) | [→ repo](https://github.com/junhyeokkk/Pingo) |
+| 03 | **AntWork** | 기업용 그룹웨어 플랫폼 | [→ repo](https://github.com/junhyeokkk/Antwork) |
+| 02 | **LotteOn** | 대규모 이커머스 쇼핑몰 | [→ repo](https://github.com/junhyeokkk/LotteOn) |
+| 01 | **Farmstory** | 농산물 직거래 플랫폼 | [→ repo](https://github.com/junhyeokkk/Farmstory_TEAM1) |
 
 ---
 
-### 🥂 재미있는 사실:
-- 🎨 항상 새로운것을 발견하고 배우는것을 좋아합니다.
-- 🚴‍♂️ 코딩하지 않을 때는 사람들을 만나며 시간을 보냅니다.
+## `$ top -o cpu ./current-tasks`
+
+```bash
+▶  [STUDYING]   빅데이터분석기사 실기  ████████░░  80%
+▶  [STUDYING]   정보처리기사 실기      ██████░░░░  60%
+▶  [GRINDING]   프로그래머스 고득점KIT ███████░░░  70%
+▶  [BUILDING]   Node.js / TypeScript 사이드 프로젝트  🔨
+```
 
 ---
+
+## `$ git log --stat`
+
+<div align="center">
+
+![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyeokkk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeokkk&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=junhyeokkk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+---
+
+## `$ ping junhyeok`
+
+```
+PING junhyeok (loveu9911111@gmail.com)
+> 📧 Email  : loveu9911111@gmail.com
+> 📱 Phone  : 010-3450-7418
+> 📖 Blog   : https://junhyeokkk.tistory.com/
+Response time: always fast ⚡
+```
+
+---
+
+<div align="center">
+
+```
+// "끊임없이 배우고, 끊임없이 성장한다."
+while (alive) { learn(); build(); repeat(); }
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=junhyeokkk&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
