@@ -146,20 +146,6 @@ contact :
 
 ---
 
-## `$ git log --stat`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhyeokkk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeokkk&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=junhyeokkk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
 <div align="center">
 
 ```js
