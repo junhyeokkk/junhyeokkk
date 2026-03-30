@@ -12,7 +12,7 @@
 
 ---
 
-## `$ whoami`
+## `$ MyInfo`
 
 ```yaml
 # choi_junhyeok.yaml
