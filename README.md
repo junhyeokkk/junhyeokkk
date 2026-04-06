@@ -26,16 +26,16 @@
 </div>
 
 ---
-
 ## About Me
 
-Node.js / TypeScript 기반 백엔드 개발자입니다.  
+Node.js / TypeScript 기반으로 **백엔드 시스템을 설계하고 개발**합니다.  
 데이터 정합성 검증, 운영 자동화, 대용량 데이터 처리,  
-Azure 환경 서비스 운영 경험을 중심으로 개발하고 있습니다.
+**Azure 환경 서비스 운영 경험**을 중심으로 개발하고 있습니다.
 
-Express → NestJS 마이그레이션,  
-Blob Storage · Cosmos DB 기반 검증 시스템,  
-Jenkins CI/CD 파이프라인 구축 경험이 있습니다.
+레거시 Express 서버를 NestJS 구조로 개선하고,  
+Azure Blob Storage · Cosmos DB 기반 검증 로직과  
+Jenkins 기반 CI/CD 파이프라인을 구축하여  
+운영 환경에서 **안정성과 유지보수성을 개선**했습니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-resume--dliy.vercel.app-black?style=for-the-badge)](https://resume-dliy.vercel.app/)
 ---
