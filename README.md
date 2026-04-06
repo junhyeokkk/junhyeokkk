@@ -1,155 +1,207 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Choi+Junhyeok;Node.js+%2F+TypeScript+%2F+Azure;Scalable+API+%7C+Data+Processing+%7C+Cloud)](https://git.io/typing-svg)
+# Choi Junhyeok
 
-<br/>
+### Backend Developer · Node.js · TypeScript · Azure
 
-![Profile Views](https://komarev.com/ghpvc/?username=junhyeokkk&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
-[![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://junhyeokkk.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:loveu9911111@gmail.com)
+운영 환경의 데이터 처리, 검증 자동화, 백엔드 구조 개선에 집중하는 개발자입니다.
+
+<p>
+  <a href="https://resume-dliy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/junhyeokkk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://junhyeokkk.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+  <a href="mailto:loveu9911111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Build+reliable+backend+systems;Automate+validation+workflows;Design+clean+and+scalable+APIs" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## `$ MyInfo`
+## About Me
 
-```yaml
-# choi_junhyeok.yaml
-name    : Choi Junhyeok (최준혁)
-role    : Backend Engineer
-focus   :
-  - Scalable API Design
-  - Large-scale Data Processing
-  - Cloud Architecture (Azure)
-  - Validation & Automation Systems
-status  : 🟢 Actively building
-motto   : "끊임없이 배우고, 끊임없이 성장한다."
-contact :
-  blog  : https://junhyeokkk.tistory.com/
-  email : loveu9911111@gmail.com
-  phone : 010-3450-7418
-```
+Node.js / TypeScript 기반으로 백엔드 시스템을 설계하고 개발합니다.  
+특히 데이터 정합성 검증, 운영 자동화, 대용량 데이터 처리, Azure 환경의 서비스 운영 경험에 강점이 있습니다.
 
-> 데이터 처리, 검증 자동화, 대용량 처리 시스템에 관심이 많은 백엔드 개발자입니다.  
-> Node.js, TypeScript, Azure 기반으로 실무형 API 서버, 데이터 검증 시스템, 운영 자동화 로직을 설계하고 구현하는 데 집중하고 있습니다.
+레거시 Express 서버를 NestJS 구조로 개선하고,  
+Azure Blob Storage · Cosmos DB 기반 검증 로직과 Jenkins 기반 배포 파이프라인을 구축하며  
+실제 운영 환경에서 안정성과 유지보수성을 높이는 개발을 해왔습니다.
+
+> 더 자세한 경력과 프로젝트는 포트폴리오에서 볼 수 있습니다.  
+> **Portfolio**: [resume-dliy.vercel.app](https://resume-dliy.vercel.app/)
 
 ---
 
-## `$ cat tech-stack.json`
+## Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=swagger&logoColor=white" />
+</p>
+
+### Cloud & Database
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Blob-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Cosmos%20DB-2CA5E0?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20App%20Service-5E5E5E?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+</p>
+
+### Also Worked With
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>myfinance-ai</h3>
+      <p>AI 소비 코치가 있는 개인 소비 분석 서비스</p>
+      <p>
+        <code>Node.js</code>
+        <code>TypeScript</code>
+        <code>OpenAI</code>
+      </p>
+      <a href="https://github.com/junhyeokkk/myfinance-ai">Repository</a>
+    </td>
+    <td width="33%">
+      <h3>Pingo</h3>
+      <p>위치 기반 소개팅 앱 프로젝트</p>
+      <p>
+        <code>Flutter</code>
+        <code>Spring Boot</code>
+        <code>Kafka</code>
+        <code>Redis</code>
+      </p>
+      <a href="https://github.com/junhyeokkk/Pingo">Repository</a>
+    </td>
+    <td width="33%">
+      <h3>AntWork</h3>
+      <p>기업용 그룹웨어 플랫폼</p>
+      <p>
+        <code>Java</code>
+        <code>Spring</code>
+      </p>
+      <a href="https://github.com/junhyeokkk/Antwork">Repository</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>LotteOn</h3>
+      <p>대규모 이커머스 쇼핑몰 프로젝트</p>
+      <p>
+        <code>Java</code>
+        <code>Spring</code>
+      </p>
+      <a href="https://github.com/junhyeokkk/LotteOn">Repository</a>
+    </td>
+    <td width="50%">
+      <h3>Farmstory</h3>
+      <p>농산물 직거래 플랫폼</p>
+      <p>
+        <code>Java</code>
+        <code>JSP</code>
+      </p>
+      <a href="https://github.com/junhyeokkk/Farmstory_TEAM1">Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## What I Work On
+
+- 운영 환경 데이터 검증 및 자동화 로직 구현
+- Azure 기반 백엔드 시스템 설계
+- 대용량 데이터 처리와 성능 개선
+- Express → NestJS 구조 개선 및 유지보수성 향상
+- CI/CD 파이프라인 구축과 배포 자동화
+
+---
+
+## Experience Snapshot
+
+### LAB021 · Backend Developer
+**2025.04 ~ Present**
+
+- 선박 데이터 관리 및 검증을 위한 Backoffice 시스템 구축
+- Express 기반 레거시 서버를 NestJS 구조로 마이그레이션
+- Jenkins 기반 Azure App Service CI/CD 파이프라인 구축
+- 운영 데이터 비교 및 검증 자동화 기능 구현
+
+---
+
+## Portfolio
+
+GitHub README보다 더 자세한 경력기술서와 프로젝트 설명은 아래에서 확인할 수 있습니다.
+
+<p>
+  <a href="https://resume-dliy.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-**🚀 Backend & Core**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=swagger&logoColor=white)
-
-**☁️ Cloud & Infra**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![CosmosDB](https://img.shields.io/badge/Cosmos_DB-2CA5E0?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Blob](https://img.shields.io/badge/Blob_Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure App Service](https://img.shields.io/badge/App_Service-5E5E5E?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**🗄️ Database**
-
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**⚙️ DevOps & Tools**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-**📚 Also Experienced With**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=junhyeokkk&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeokkk&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## `$ git log --oneline ./projects`
+## Archive
 
-| # | Project | Description | Stack | Link |
-|---|---------|-------------|-------|------|
-| 🟢 | **myfinance-ai** | AI 소비 코치가 있는 개인 소비 분석 서비스 | `Node.js` `TypeScript` `OpenAI` | [→ repo](https://github.com/junhyeokkk/myfinance-ai) |
-| ✅ | **Pingo** | 위치 기반 소개팅 앱 | `Flutter` `Spring Boot` `Kafka` `Redis` | [→ repo](https://github.com/junhyeokkk/Pingo) |
-| ✅ | **AntWork** | 기업용 그룹웨어 플랫폼 | `Java` `Spring` | [→ repo](https://github.com/junhyeokkk/Antwork) |
-| ✅ | **LotteOn** | 대규모 이커머스 쇼핑몰 | `Java` `Spring` | [→ repo](https://github.com/junhyeokkk/LotteOn) |
-| ✅ | **Farmstory** | 농산물 직거래 플랫폼 | `Java` `JSP` | [→ repo](https://github.com/junhyeokkk/Farmstory_TEAM1) |
-
----
-
-## `$ grep -r "highlighted" ./experience/`
-
-<details>
-<summary><b>🚢 Ship Data Validation & Maintenance System</b></summary>
-
-```
-> Azure Blob Storage ↔ Cosmos DB 데이터 정합성 비교 자동화
-> ROB / OIL / HISTORY_LOG 기반 검증 로직 구현
-> 대용량 데이터 처리 시 동시성 제어 및 성능 최적화
-> 운영 환경의 데이터 복구, 동기화, 검증 API 설계 경험
-```
-
-</details>
-
-<details>
-<summary><b>💸 AI Personal Finance Service</b></summary>
-
-```
-> 소비 내역 업로드 및 분석 API 설계
-> OpenAI 기반 소비 습관 요약 / 예산 조언 / 자연어 질의응답 구현
-> Excel 업로드 → 파싱 → 분석 → 다운로드 자동화 파이프라인 설계
-```
-
-</details>
-
-<details>
-<summary><b>💘 Pingo — Location-based Matching App</b></summary>
-
-```
-> 위치 기반 매칭 및 스와이프 기능 구현
-> Kafka 기반 비동기 이벤트 처리
-> Redis-DB 간 데이터 일관성 처리
-```
-
-</details>
-
----
-
-## `$ cat focus.md`
-
-```
-┌──────────────────────────────────────────┐
-│  WHAT I FOCUS ON                         │
-├──────────────────────────────────────────┤
-│  [✔]  Scalable API Design               │
-│  [✔]  Large-scale Data Processing       │
-│  [✔]  Cloud-based Architecture (Azure)  │
-│  [✔]  Validation & Automation Systems   │
-│  [✔]  Production-friendly Engineering   │
-└──────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-```js
-while (alive) { learn(); build(); repeat(); }
-```
-
-</div>
+```ts
+const developer = {
+  name: "Choi Junhyeok",
+  role: "Backend Developer",
+  interests: [
+    "Scalable API Design",
+    "Data Validation Automation",
+    "Cloud Architecture",
+    "Large-scale Data Processing",
+  ],
+  motto: "Keep building better systems.",
+};
