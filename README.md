@@ -7,9 +7,6 @@
 운영 환경의 데이터 처리, 검증 자동화, 백엔드 구조 개선에 집중하는 개발자입니다.
 
 <p>
-  <a href="https://resume-dliy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://github.com/junhyeokkk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
