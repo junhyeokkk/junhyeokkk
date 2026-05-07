@@ -31,6 +31,9 @@ Node.js / TypeScript 기반으로 백엔드 시스템을 설계하고 개발합�
 Azure Blob Storage · Cosmos DB 기반 검증 로직과 Jenkins 기반 배포 파이프라인을 구축하며
 실제 운영 환경에서 안정성과 유지보수성을 높이는 개발을 해왔습니다. 
 
+> 더 자세한 경력과 프로젝트는 포트폴리오에서 볼 수 있습니다.
+>
+>  [![Portfolio](https://img.shields.io/badge/Portfolio-resume--dliy.vercel.app-black?style=for-the-badge)](https://resume-dliy.vercel.app/)
 ---
 
 ## Tech Stack
@@ -94,6 +97,13 @@ Azure Blob Storage · Cosmos DB 기반 검증 로직과 Jenkins 기반 배포 �
 
 > Backend System · Data Validation · Cloud Infrastructure
 
+GitHub README보다 더 자세한 경력기술서와 프로젝트 설명은 아래에서 확인할 수 있습니다.
+
+<p>
+  <a href="https://resume-dliy.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 
 ---
