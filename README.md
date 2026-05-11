@@ -83,7 +83,7 @@ Azure Blob Storage · Cosmos DB 기반 검증 로직과 Jenkins 기반 배포 �
 
 | Project | Description | Stack |
 |--------|-------------|------|
-| **[myfinance-ai](https://github.com/junhyeokkk/myfinance-ai)** | AI 소비 코치가 있는 개인 소비 분석 서비스 | `Node.js` `TypeScript` `OpenAI` |
+| **[MetroWatch](https://github.com/junhyeokkk/realtime-subway-monitoring-system)** | 실시간 도시철도 운영·혼잡 관제 시스템 | `Node.js` `TypeScript` `OpenAI` |
 | **[Pingo](https://github.com/junhyeokkk/Pingo)** | 위치 기반 소개팅 앱 프로젝트 | `Flutter` `Spring Boot` `Kafka` `Redis` |
 | **[AntWork](https://github.com/junhyeokkk/Antwork)** | 기업용 그룹웨어 플랫폼 | `Java` `Spring` |
 | **[LotteOn](https://github.com/junhyeokkk/LotteOn)** | 대규모 이커머스 쇼핑몰 프로젝트 | `Java` `Spring` |
