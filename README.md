@@ -83,6 +83,7 @@ Azure Blob Storage · Cosmos DB 기반 검증 로직과 Jenkins 기반 배포 �
 
 | Project | Description | Stack |
 |--------|-------------|------|
+| **[PostPilot](https://github.com/junhyeokkk/postpilot)** 🚧 | AI 콘텐츠 자동화 서비스 — 사진·메모로 블로그/SNS 초안 생성 *(개발중)* | `TypeScript` `Next.js` `NestJS` `Turborepo` |
 | **[Pingo](https://github.com/junhyeokkk/Pingo)** | 위치 기반 소개팅 앱 프로젝트 | `Flutter` `Spring Boot` `Kafka` `Redis` |
 | **[AntWork](https://github.com/junhyeokkk/Antwork)** | 기업용 그룹웨어 플랫폼 | `Java` `Spring` |
 | **[LotteOn](https://github.com/junhyeokkk/LotteOn)** | 대규모 이커머스 쇼핑몰 프로젝트 | `Java` `Spring` |
